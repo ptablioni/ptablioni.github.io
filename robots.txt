@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ptablioni.github.io/ptablioni.txt.gz
+Sitemap: https://ptablioni.github.io/app/ptablioni.txt.gz
+Sitemap: https://ptablioni.github.io/assets/ptablioni.txt.gz
+Sitemap: https://ptablioni.github.io/css/ptablioni.txt.gz
+Sitemap: https://ptablioni.github.io/includes/ptablioni.txt.gz
+Sitemap: https://ptablioni.github.io/item/ptablioni.txt.gz
+Sitemap: https://ptablioni.github.io/src/ptablioni.txt.gz
